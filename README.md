@@ -1,5 +1,5 @@
-# Application Express + Mongoose #
+# Express + Mongoose Application #
 
-App base Nodejs with ExpressJS + Mongoose
+Base App made with Nodejs with ExpressJS + Mongoose
 
-Inspired at express-generator and https://github.com/madhums/node-express-mongoose
+Inspired by express-generator and https://github.com/madhums/node-express-mongoose
